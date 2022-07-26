@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name" translatable="false">Money Pit</string>
+    <string name="add_account">Add account</string>
+    <string name="add_budget">Add budget</string>
+    <string name="add_transaction">Add transaction</string>
+    <string name="name">Name</string>
+    <string name="value">Value</string>
+    <string name="description">Description</string>
+    <string name="limit">Limit</string>
+    <string name="interval">Interval</string>
+    <string name="date">Date</string>
+    <string name="attachment">Attachment</string>
+    <string name="account">Account</string>
+    <string name="budget">Budget</string>
+    <string name="transaction">Transaction</string>
+    <string name="save">Save</string>
+</resources>
